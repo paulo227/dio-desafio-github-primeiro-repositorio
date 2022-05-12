@@ -1,0 +1,8 @@
+primeiramente copiar no github o meu repositório na chave ssh.
+segundo passo abrir no workspace, e fazer uma nova pasta. 
+terceiro passo é clonar ou seja copiar aquele repositorio do github que foi feito para clonar é "git clone e a copia do repositorio.
+quarto passo é informa o "git status" do seu projeto ou repositorio
+quinto passo coloque o "git add ." logo em seguida volta a colocar o "git status"
+sexto passo para commitar basta informar o "git commit -m "informa um comentario coerente aqui nas aspas".
+setimo passo outra vez informa o "git status".
+oitavo passo é puxar o arquivo que ja estar informado, informando o "git push origin main
